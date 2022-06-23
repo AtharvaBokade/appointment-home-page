@@ -1,5 +1,7 @@
 {
+  "homepage": "https://atharvabokade.github.io/appointment-home-page/",
   "name": "tech",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
