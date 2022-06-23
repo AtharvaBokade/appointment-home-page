@@ -45,7 +45,7 @@ export default function App() {
       APPOINTMENT
     </h1>
     <div class='button'>
-      <button type="button" class="btn">BOOK HERE</button>
+      <a href='https://atharvabokade.github.io/appointment-home/'><button type="button" class="btn">BOOK HERE</button></a>
     </div>
 
     
